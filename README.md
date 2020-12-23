@@ -1,4 +1,4 @@
-![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/60d580c19ae94846be305d10ad300887~tplv-k3u1fbpfcp-watermark.image)
+![](https://github.com/hornhuang/PictureRepository/blob/master/ios_notes/open_graph_logo.png)
 
 ## ios_notes
 - ios notes
