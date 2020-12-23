@@ -1,4 +1,4 @@
-![](https://github.com/hornhuang/PictureRepository/blob/master/ios_notes/open_graph_logo.png)
+![](https://github.com/hornhuang/PictureRepository/blob/master/ios_notes/og__fodnljjkwl6y.png)
 
 ## ios_notes
 - ios notes
