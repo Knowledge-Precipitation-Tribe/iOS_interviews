@@ -1,7 +1,7 @@
 ![](https://github.com/hornhuang/PictureRepository/blob/master/ios_notes/og__fodnljjkwl6y.png)
 
 ## ios_notes
-- ios notes
+- 史上最全 iOS 笔记，正在火速更新中
 
 ## MIT License
 
