@@ -12,7 +12,7 @@
 
 ## 导航
 
-- UIkit
+- UIKit
   - View
     - [UIImageView 使用 padding 为图片设置内边距的 2 种方案](https://github.com/Knowledge-Precipitation-Tribe/ios_notes/tree/main/UIKit/view/UIImageView%20%E4%BD%BF%E7%94%A8%20padding%20%E4%B8%BA%E5%9B%BE%E7%89%87%E8%AE%BE%E7%BD%AE%E5%86%85%E8%BE%B9%E8%B7%9D%E7%9A%84%202%20%E7%A7%8D%E6%96%B9%E6%A1%88)
     - [「 UITableView 」列表 Cell 高度自适应，UITableViewCell 高度自适应](https://github.com/Knowledge-Precipitation-Tribe/ios_notes/tree/main/UIKit/view/%E3%80%8C%20UITableView%20%E3%80%8D%E5%88%97%E8%A1%A8%20Cell%20%E9%AB%98%E5%BA%A6%E8%87%AA%E9%80%82%E5%BA%94%EF%BC%8CUITableViewCell%20%E9%AB%98%E5%BA%A6%E8%87%AA%E9%80%82%E5%BA%94)
