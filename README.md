@@ -19,7 +19,7 @@
   - Tools
     - [UIColor 加载十六进制色值](https://github.com/Knowledge-Precipitation-Tribe/ios_notes/tree/main/UIKit/tools/UIColor%20%E5%8A%A0%E8%BD%BD%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E8%89%B2%E5%80%BC)
 
-- warning
+- Error
   - Network
     - [报错 Error Domain=NSURLErrorDomain Code=-1004](https://github.com/Knowledge-Precipitation-Tribe/ios_notes/tree/main/%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF/%E7%BD%91%E7%BB%9C/%E6%8A%A5%E9%94%99%20Error%20Domain%3DNSURLErrorDomain%20Code%3D-1004)
   - Xcode
