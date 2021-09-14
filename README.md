@@ -13,7 +13,7 @@
 
 ## # swift
 
-- [swift 原生网络请求 URLSession 封装](https://www.jianshu.com/p/d689e7542f7e)
+- [swift原生网络请求简单封装，第三方库Alamofire简单使用](https://www.codenong.com/js16b2c6ea0bc6/)
 
 </br>
 </br>
