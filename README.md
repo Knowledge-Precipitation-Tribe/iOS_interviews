@@ -11,6 +11,10 @@
 
 </br>
 
+## # 基础
+
+- [ios - MVVM ](https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm)
+
 ## # swift
 
 - [swift原生网络请求简单封装，第三方库Alamofire简单使用](https://www.codenong.com/js16b2c6ea0bc6/)
