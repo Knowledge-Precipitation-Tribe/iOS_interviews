@@ -2,10 +2,19 @@
 
 ![https://img-blog.csdnimg.cn/20200730222209985.png](https://img-blog.csdnimg.cn/20200730222209985.png)
 
+个人 iOS 私房菜，汇总全网有关开发、面试的点点滴滴，当之不愧的开发宝库
 
+# # 文章
+
+## # swift
+
+- [swift原生网络请求 URLSession](https://www.jianshu.com/p/d689e7542f7e)
+
+# # 面试
+
+## # 常见面试题
 
 - iOS单例（复杂版的）
-
 - 1、iOS Runtime问了比较深入，方法查找，方法查找不到怎么办等
 - 2、UIView的重载和重画机制。
 - 问到有关block，动态库，mvc
