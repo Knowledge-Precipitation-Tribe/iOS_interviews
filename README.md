@@ -1,6 +1,6 @@
 # iOS_interviews
 
-![https://img-blog.csdnimg.cn/20200730222209985.png](https://github.com/hornhuang/PictureRepository/blob/master/iOS_interviews/ios-14-5-apple-big.jpg)
+![https://img-blog.csdnimg.cn/20200730222209985.png](https://github.com/hornhuang/PictureRepository/blob/master/iOS_interviews/ios.jpg)
 
 个人 iOS 私房菜，汇总全网有关开发、面试的点点滴滴，当之不愧的开发宝库
 
